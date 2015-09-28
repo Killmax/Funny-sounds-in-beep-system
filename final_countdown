@@ -1,0 +1,9 @@
+#!/bin/bash
+# DO# SI DO# FA#
+# RE DO# RE DO# SI
+# DO# SI DO# FA# FA#
+# SI LA SI LA SOL# SI LA
+beep -f 554.37 -n -f 493.88 -n -f 554.37 -n -f 369.99 -l 375 -n \
+-f 587.33 -n -f 554.37 -n -f 587.33 -n -f 554.37 -n -f 493.88 -l 375 -n \
+-f 554.37 -n -f 493.88 -n -f 554.37 -n -f 369.99 -l 375 -n \
+-f 493.88 -n -f 440.00 -n -f 493.88 -n -f 440.00 -n -f 415.30 -n -f 493.88 -n -f 440.00
