@@ -3,6 +3,7 @@
 # RE DO# RE DO# SI
 # DO# SI DO# FA# FA#
 # SI LA SI LA SOL# SI LA
+# Made by Maxime Bruguet a.k.a. Killmax
 beep -f 554.37 -n -f 493.88 -n -f 554.37 -n -f 369.99 -l 375 -n \
 -f 587.33 -n -f 554.37 -n -f 587.33 -n -f 554.37 -n -f 493.88 -l 375 -n \
 -f 554.37 -n -f 493.88 -n -f 554.37 -n -f 369.99 -l 375 -n \
